@@ -50,7 +50,8 @@ J&Y Enterprise is one of the top coffee retailers, known for serving IT enthusia
 ### Flag
 - **THM{81b7fef657f8aaa6e4e200d616738254}**
 
-![image](https://github.com/user-attachments/assets/924d6244-af26-49d7-8b54-12f265a4a050)
+![image](https://github.com/user-attachments/assets/1a46625d-36d0-45fc-a1d2-b485fb1c4060)
+
 
 
 ## Key Takeaways
